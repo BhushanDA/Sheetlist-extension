@@ -1,0 +1,8 @@
+{
+	"name": "SheetList_Style",
+	"description": "Extension to list and navigate sheets",
+	"type": "visualization",
+	"version": "1.0.1",
+	"author": "You",
+	"icon": "extension"
+}

@@ -1,0 +1,9 @@
+/* Optional extra spacing or hover effects */
+.sheet-navigation-container img {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.sheet-navigation-container li:hover {
+  text-decoration: underline;
+}
